@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# HotelApp Project
+## Basic JAVA Project
 
 Default Structure for A Basic Project
 
